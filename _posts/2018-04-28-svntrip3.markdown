@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "萨凡纳、查尔斯顿游记之三：庄园"
+date:   2018-04-28
+categories: trip
+author: Qingya Shu
+---
+从查尔斯顿镇往西北向驱车半小时就到米德尔顿庄园（Middleton Place）。18世纪30年代末，美国南方庄园主亨利米德尔顿（Henry Middleton）将婚后继承自岳父的这片地产建成家族庄园。米德尔顿家族财力雄厚，亨利的儿子亚瑟米德尔顿（Arthur Middleton）也是后来美国独立宣言的起草人之一。这个庄园仅仅是米德尔顿家族在美国南方数十片地产的其中一座，园内有大片的农作和数量庞大的奴隶终日劳作。由于此处适宜的气候和生态环境，以及近邻查尔斯顿镇仅几小时水路，是家族成员十分喜爱的住所。米德尔顿庄园美得好像童话一般，我们在这里几乎流连忘返了一整天。
+
+{% include image.html description="坐在湖边享受恬静的庄园风光" url="/assets/img/2018-04-28/31829-55045e688f4db186.jpg" %}
+
+{% include image.html description="米德尔顿之家博物馆" url="/assets/img/2018-04-28/31829-d381cf74dd974f71.jpg" %}
+
+
+{% include image.html url="/assets/img/2018-04-28/31829-80fda63e385887d2.jpg" %}
+
+{% include image.html description="湖畔边的石凳，或许十八世纪米德尔顿家族某位成员也曾在这欣赏开阔的美景" url="/assets/img/2018-04-28/31829-b3ec85425891582b.jpg" %}
+
+{% include image.html description="阶梯草坪远处的圣坛和观众席，这里太适合举行婚礼" url="/assets/img/2018-04-28/31829-d098fa700a6f5e66.jpg" %}
+
+{% include image.html description="观景台曾经面对一大片水稻田，如今已变成湿地和小池塘" url="/assets/img/2018-04-28/31829-d9542bfce6716c27.jpg" %}
+
+{% include image.html url="/assets/img/2018-04-28/31829-61fbfcddb5095dda.jpg" %}
+
+{% include image.html description="IMG_5333.jpg" url="/assets/img/2018-04-28/31829-53451ef54ee637a8.jpg" %}
+
+庄园的花园除了喷泉和雕塑，还别出心裁种植了大片山茶花园，另有杜鹃花、竹林、玉兰、水杉等等。我们到时刚开园不久，还没有太多游人入园，整个花园幽静神秘，沿着小径漫步在花荫和树林中，似乎回到18世纪的恬静的田园生活。这里也是电影《飘》的拍摄地。
+
+{% include image.html description="花园里的雕像" url="/assets/img/2018-04-28/31829-6acfd6dbb7301d36.jpg" %}
+
+{% include image.html description="漫步于花园小径" url="/assets/img/2018-04-28/31829-3ee09616254f9688.jpg" %}
+
+{% include image.html description="庄园马车" url="/assets/img/2018-04-28/31829-ee17e8261fde15e7.jpg" %}
+
+精心设计的景致实际只占整个庄园的一部分。庄园的所有其他地方几乎都是整洁的草坪和小湖泊，18、19世纪时用于种植的稻田和农作区如今也都荒废变成了湖泊。想要遍览这个庄园一定记得要坐马车。坐在微微颠簸的马车上，一边听马车夫导游讲解园子的设计和米德尔顿家族史，路过竹林远远望到湖泊、或是短暂停靠林荫下的草地，可以从高处看宽阔的庄园全景，让人不禁感叹南方庄园生活，真正体会到美国贵族阶级的雄厚资产。
+
+{% include image.html description="金发大眼、长睫毛、粉唇，第一次近距离见这么高颜值的马实在是太兴奋了" url="/assets/img/2018-04-28/31829-eae6e059ba125411.jpg" %}
+
+{% include image.html description="坐马车游览庄园" url="/assets/img/2018-04-28/31829-cba06b1921e17ed7.jpg" %}
+
+米德尔顿之家博物馆，实际上只是米德尔顿家族曾经的会客厅和收藏品处。庄园最初三处住宅中的两处已于南北战争期间的被士兵焚毁，几年后的大地震又让悲剧的住宅经历二次浩劫，家族成员只拯救翻新了其中一所，并将其变为住所使用。要进入博物馆必须跟随导游讲解，住宅内不能照相。可以观看精美的收藏品和生活用具，了解18世纪美国庄园主的贵族生活。
+
+{% include image.html description="马车路过低头吃草的羊" url="/assets/img/2018-04-28/31829-873ec30c498fdd29.jpg" %}
+{% include image.html description="羊可以自由自在地乱逛" url="/assets/img/2018-04-28/31829-b2927bf4f21e9b21.jpg" %}
+{% include image.html description="庄园圈养的山羊" url="/assets/img/2018-04-28/31829-ba57602096a7b6fb.jpg" %}
+{% include image.html description="伊利莎之家（Eliza's House），曾经黑奴的住所" url="/assets/img/2018-04-28/31829-8b2a176224c6be1f.jpg" %}
+{% include image.html description="伊利莎之家内部卧室" url="/assets/img/2018-04-28/31829-1ac57c3b13d822fe.jpg" %}
+{% include image.html url="/assets/img/2018-04-28/31829-61c47b82358fa001.jpg" %}
+{% include image.html description="保留了原貌的庄园内手工作坊，会有18世纪穿着打扮得工作人员演示工具使用" url="/assets/img/2018-04-28/31829-785c7cfe53ba5957.jpg" %}
+
+庄园全天票价55刀，包含了基础门票、米德尔顿之家博物馆、和游览马车的全部项目。庄园还有自己的农场，圈养了牛、马、猪、鸡等等各种动物，庄园里的羊群可以不受圈养自由自在在园内吃草散步，可谓是整个园子里最自由的动物。庄园还出产自己奶制品和禽蛋，有自己的手工作坊、铁匠坊，节假日不时举办一些对公众的活动，承办婚礼也必须是热门业务之一了。所以不夸张地说，比起作为历史遗址的存在，米德尔顿庄园如今仍是处处生机，更像是超级豪华高端版的农家乐。

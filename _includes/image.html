@@ -1,0 +1,7 @@
+<!-- _includes/image.html -->
+<div class="image-wrapper" >
+  <img class="image-image" src="{{ include.url | relative_url }}" alt="{{ include.description }}"/>
+  {% if include.description %}
+  <p class="image-caption">{{ include.description }}</p>
+  {% endif %}
+</div>

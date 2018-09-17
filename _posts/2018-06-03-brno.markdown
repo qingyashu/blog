@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "布尔诺游记"
+date:   2018-06-03
+categories: trip
+author: Qingya Shu
+---
+
+欧洲璀璨的历史文化遗迹让我心向往之：巴黎、弗洛伦萨、维也纳等是心中的朝圣之地。而机缘巧合下，我们在六月初于捷克布尔诺度过了五天悠闲的时光。这个不怎么出名的中欧城市没有过多游客的打扰，历史遗迹和生活节奏被原汁原味地保留下来。这里的人们低调而我行我素的享受生活。在布尔诺度过的五天时光得以让我们深入地品味当地的生活，发现一个又一个惊喜。
+{% include image.html description="布尔诺是捷克第二大城市，从老市政厅的钟楼上眺望，古老的圣彼得保罗大教堂是这个城市最美的天际线" url="/assets/img/2018-06-02/brno.jpg" %}
+
+布尔诺是捷克的第二大城市，目前有40万人口。早在11世纪起，它就是摩拉维亚地区的中心城市和首都。布尔诺在历史上经历过不少战争的浩劫：15世纪胡斯战争、17世纪三十年战争、18世纪普鲁士入侵、二战期间被德军占领、苏联时期的捷克斯洛伐克……这些都没有摧毁布尔诺，却更让这座美丽的城市多了份历史的韵味。这里也诞生过伟大的时刻：在19世纪孟德尔在圣多默隐修院的花园进行了著名的豌豆实验，发现了遗传定律。人们对捷克的了解大多被耀眼的布拉格所吸引，它被称为欧洲最璀璨的珍珠当之无愧。而布尔诺却是另一种透着具有历史的深邃、却又不失朴素而生活气息的魅力。
+
+乘坐RJ线从维也纳到布尔诺只需要一个半小时，路上的欧洲田野风光宜人。布尔诺火车站在市中心，整个老城基本都在步行范围内。
+
+{% include image.html description="布尔诺车站在市中心，整个老城基本都在步行范围内" url="/assets/img/2018-06-02/brno-station.jpg" %}
+
+{% include image.html description="黄昏的卷心菜广场" url="/assets/img/2018-06-02/brno-plaza.jpg" %}
+第一天的傍晚到布尔诺，从火车站拖着箱子步行5分钟就到酒店。我们这几天住在卷心菜广场（Cabbage Market Square）边的Grandezza Hotel Luxury，近邻着摩拉维亚博物馆和老市政厅，楼下广场的不同街道通向老城区的各个方向非常便捷，对过则可以眺望胜彼得保罗大教堂。刚到时已近黄昏，空荡的广场只剩几只鸽子在追逐，不远处的教堂剪影为落日余晖添一份古朴。拖着疲惫的身躯放好行李，我们在酒店雅致的餐厅享受第一天的晚餐，精心的菜品和牛排收到G同学赞不绝口的夸奖。回酒店休息，恰好听到远远近近地响起悠悠的整点钟声。在布尔诺的第一天，这个安静、古朴的城市给我们留下美好的初印象。
+
+在布尔诺的第二天，早晨拉开窗帘就有惊喜的发现：昨晚寂静的黄昏广场摇身一变热闹非凡！“卷心菜市场”，布尔诺市最热闹的菜市场，菜农们早早地带着摩拉维亚的新鲜水果蔬菜来到这里。彩色遮阳棚陆续点缀起来，宽阔的广场一时竟也变得络绎非凡。
+布尔诺市民们来往于间，为新的一天挑选食材，或是物色带回一两株盆栽和农作装饰后院，市场到处充满着生活的气息。
+在欧洲第一个早晨见到的生活场景，比我想象中精美的历史建筑更鲜活亲切。这个早在中世纪就初具规模的市场包含不少历史遗迹：广场地面镶嵌古朴的鹅卵石，中央的喷泉和雕塑是十三世纪的作品，一边的莫扎特金像是人们为了纪念音乐天才莫扎特在童年时亲临广场边歌剧院演出而建。不远处，圣彼得保罗教堂的钟声回荡在上空，平添一份古朴悠长的历史韵味。
+
+{% include image.html description="" url="/assets/img/2018-06-02/brno-market.jpg" %}
+
+酒店楼下的餐厅和所有其他的餐厅一样，一大早就搭起户外桌和遮阳棚。
+这里夏天的日照时间很长，晚上将近十点才彻底落日，所以只要不下雨，白天的用餐基本都在街头户外，天光云影下愉快的进食交谈确实让人享受。
+
+{% include image.html description="楼下餐厅元气满满的早餐开启一整天的能量😋" url="/assets/img/2018-06-02/brno-food-brkfst.jpg" %}
+
+{% include image.html description="只点了意面、沙拉、和肋条，但上菜份量非常热情厚道。布尔诺餐饮消费水平不高且美味量大，非常实惠" url="/assets/img/2018-06-02/brno-food-meal.jpg" %}
+
+{% include image.html description="在布尔诺的第一顿牛排，鲜嫩多汁瞬间治愈" url="/assets/img/2018-06-02/brno-steak.jpg" %}
+
+捷克的消费水平并不贵，在布尔诺更是如此，尤其是在吃上，菜品的份量实在、价钱实惠。在市中心逛累了，随意找一家露天餐厅坐下来杯下午茶，看路人来往，自在惬意。
+
+{% include image.html description="和G童鞋某天happy hour时一起从伴酒菜单里点了一份猪肘小菜，角度关系实物比照片看起来大很多，最后两个人一起努力才啃完一半" url="/assets/img/2018-06-02/brno-food-pork-knee.jpg" %}
+
+在捷克见到的这种零食也许是这个国家特有的：Trdlo。一圈圈包在棍子外面的面包放在烤箱里边转边烤，在蘸上不同口味的糖粉，或者当作蛋筒灌满冰激凌吃，看着相当诱人。店员小姐姐教我怎么读这个单词已经被我全忘了，但我还记得兴奋地买了一盒后满怀期待咬一口后的惊吓：这玩意简直是甜甜圈的欧洲版，除了甜几乎没有任何其他的味道，除了额外一点点的肉桂味，搭配着巨甜的口感显得更加回味诡异。风靡全国的捷克大麻花，不出意料地仍然是西方人普遍喜欢的甜肉桂味，但实在让我望而却步。
+
+{% include image.html description="捷克大麻花，还可以选择巧克力、草莓、椰粉或者灌冰激淋，颜值挺高，但实际上只是换了个形状裹上了厚厚砂糖的甜甜圈。个人非常不习惯超级甜口，咬了一口就放弃了" url="/assets/img/2018-06-02/brno-sweet-roll.jpg" %}
+
+天黑后的布尔诺，夜生活相当热闹。这里的人似乎也很热爱啤酒，白天已是三三两两地露天聊天喝酒，到了夜幕降临后更甚。有幸请本地小伙伴带我们到一家最受欢迎的啤酒馆感受布尔诺的夜生活，小小的店前热闹地排起长队。店前并没有足够多的露天站桌，啤酒客们都围坐在教堂墙角外谈天说地，安静的教堂广场到晚上尽是坐着的酒客，有的一醉方休已是直接躺倒，闹哄哄的场面与安静肃穆的教堂建筑形成颇为有趣的对比。
+
+{% include image.html description="店前并没有足够多的露天站桌，点了酒的顾客就在街边或者教堂墙角自便" url="/assets/img/2018-06-02/brno-night-chuch.jpg" %}
+
+{% include image.html description="幸运地跟着小伙伴去了一家风格清新的啤酒店，这次是在室内。特别喜欢小伙伴推荐给我的草莓啤酒和橙子味啤酒" url="/assets/img/2018-06-02/brno-food-beer.jpg" %}
+
+*关于历史——教堂与地下城*
+
+和大多数欧洲城市一样，布尔诺有数量众多的教堂和错综复杂的历史地下城。
+坎布遣修道会从中世纪起在布尔诺修建了不少地下墓穴，那里停放着当地贵族、修道士的干尸。
+在卷心菜广场位置地是坎布遣休会的地下墓穴参观入口。
+St.Jacob教堂边的入口则是一个数量更庞大、更诡异的干尸和骷髅群。
+地下埋葬着天主教历史和曾经显赫的人们，地上的教堂里虔诚的人们延续千年的祷告和吟唱。
+如果从老城钟楼上俯瞰，整个城市的众多红色屋顶被不少形状各异的教堂尖顶点缀，非常好看。
+除了撑起天际线的圣彼得堡落教堂最宏伟出众，其他的各色教堂也都不乏各自的特征。
+在坎布遣修会地下墓穴的历史简介中，就有包含了一幅布尔诺历史地图，标出了曾经的古城地图和坐落在城中的十一个教堂。
+有幸时间宽裕，古城范围也并不大，可以跟着古地图可以把如今还在的教堂都遍览一番，有一两个已经不见踪影或者改名改建，但是大多都还保留原来的风貌。
+
+{% include image.html description="Cathedral of St. Peter and Paul，教堂很大，门前的空地不足以让我把整个教堂都装进照片，只能在远处的台阶下拍照" url="/assets/img/2018-06-02/church/paul.jpg" %}
+{% include image.html description="可以爬侧翼登顶一边的钟楼，楼梯看着还是有些危险" url="/assets/img/2018-06-02/church/paul-stair.jpg" %}
+{% include image.html description="登顶一路的楼梯边会有不少关于教堂大钟的介绍。登顶的同时头上恰好响起了半点的钟声，丝毫没有心理准备的我从头到脚都被钟声震撼了" url="/assets/img/2018-06-02/church/paul-bell.jpg" %}
+{% include image.html description="侧翼塔楼外的小阳台，整个城市最高处的风景" url="/assets/img/2018-06-02/church/paul-balcony.jpg" %}
+{% include image.html description="Cathedral of St. Peter and Paul内部，彩玻璃很美" url="/assets/img/2018-06-02/church/paul-inside.jpg" %}
+{% include image.html description="坎布遣修会地下墓穴的其中一室，雕塑和棺材都透露着对死亡的敬畏和对和不朽的向往" url="/assets/img/2018-06-02/church/burials.jpg" %}
+{% include image.html description="The Church of St. John内部圣坛和雕塑" url="/assets/img/2018-06-02/church/john-side.jpg" %}
+{% include image.html description="The Church of St. John顶部叹为观止的湿壁画" url="/assets/img/2018-06-02/church/john-top.jpg" %}
+{% include image.html description="The Church of St. John在热闹的购物步行街上，安静庄重的仪式结束后出门扑面而来的尘世气息恍如隔世" url="/assets/img/2018-06-02/church/joseph-outsite.jpg" %}
+{% include image.html description="St. Mary Magdalene Church玛丽抹大拉教堂小而惊艳的圣堂" url="/assets/img/2018-06-02/church/mag.jpg" %}
+
+印象最深的童贞玛丽教堂和圣约翰教堂。两个小巧的教堂都隐密在一片热闹的购物街中，但进入圣堂门后便恍如隔世——眼前神圣的宗教雕塑、圣坛让人仿佛突然穿越到中世纪。
+另外，雅各布教堂也给我留下很深的印象——它的风格和其他的教堂非常不同，内部简单有力，这让人自然而然地产生对纯洁、神圣的向往。
+在布尔诺旅游官网上可以下载介绍所有教堂的[小册子](https://www.gotobrno.cz/wp-content/uploads/2018/06/kostely_brozura-EN_web-2018.pdf)，
+可以查询好每一个教堂的具体开放时间然后规划行程拜访。
+{% include image.html description="坎布遣会地下墓穴展厅中一副布尔诺历史地图，曾经的教堂" url="/assets/img/2018-06-02/church/map.jpg" %}
+{% include image.html description="Church of the Assumption of Virgin Mary童贞玛丽教堂，参观时未到对外开放时间，但在门口却幸运地听到楼上的管风琴师正在练习乐曲片段。" url="/assets/img/2018-06-02/church/mary.jpg" %}
+{% include image.html description="Red Church红教堂" url="/assets/img/2018-06-02/church/red-church.jpg" %}
+{% include image.html description="Kostel sv. Jakuba，这是布尔诺教堂里最有代表性，简洁、有力的建筑结构让人自然而然地产生对纯洁、神圣的向往" url="/assets/img/2018-06-02/church/jacob.jpg" %}
+{% include image.html description="Kostel sv. Jakuba圣水" url="/assets/img/2018-06-02/church/jacob-water.jpg" %}
+
+*关于阴影——监狱与地堡*
+
+布尔诺城市的一边的高地上矗立着威严的城堡——斯皮尔伯格城堡Spielberg Castle。这是曾经波希米亚王朝和摩拉维亚统治者所建立的奢华城堡。之后的几百年，它经历了兵营、堡垒、监狱、死刑执行处等的一系列变换，最后成了现在历史博物馆的角色。
+历史上统治者几度变迁，战争的炮火让地下关押区域经过多次的改建，但唯一不变的是地下残酷、黑暗的主题。
+城堡的顶端，整个布尔诺的景色开阔，但古堡地下残酷的拷问室和监狱都让人心情沉重。
+
+
+{% include image.html description="" url="/assets/img/2018-06-02/brno-castel-overview.jpg" %}
+{% include image.html description="" url="/assets/img/2018-06-02/brno-castle-gunfire.jpg" %}
+{% include image.html description="" url="/assets/img/2018-06-02/brno-castle-passage.jpg" %}
+
+和古堡类似压抑的是红教堂不远处的地堡，在捷克斯洛伐克时期为了应对一再升温的冷战而建立的放核爆基地。
+阴冷潮湿的地下展览陈列了很多战时用品、超大发电机、基本生存指南、通讯、还有图书馆和食堂小卖部。
+在地下时我被这种潮湿黑暗的气氛感到恐怖，可以看到那个时代背景下的人们的扭曲心灵，掺杂着胜利的信念、末日的恐惧、还有封闭空间下对自由、生活的渴望等等如此矛盾。
+
+{% include image.html description="" url="/assets/img/2018-06-02/bunker/1.jpg" %}
+{% include image.html description="" url="/assets/img/2018-06-02/bunker/2.jpg" %}
+{% include image.html description="" url="/assets/img/2018-06-02/bunker/3.jpg" %}
+{% include image.html description="地堡出口处是一个小餐厅，也许会有人点一杯小酒在这里回味这里的压抑" url="/assets/img/2018-06-02/bunker/4.jpg" %}
+{% include image.html description="地堡出口处的小餐厅" url="/assets/img/2018-06-02/bunker/5.jpg" %}
+
+最后值得吐槽的是中国移动的数据漫游服务：由于国内网络的限制，Google会被墙，所以我们总是不能正常使用Google Map，网络限制严重影响了旅行体验。经过这次的惨痛教训，下次如果再去欧洲旅行一定记得先买当地手机卡保证正常网络访问。

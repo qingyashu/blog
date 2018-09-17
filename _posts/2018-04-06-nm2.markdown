@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "新墨西哥游记二——火山口、原住民遗址"
+date:   2018-04-06
+categories: trip
+author: Qingya Shu
+---
+
+新墨西哥州很低调，尽管这片地域不太被多数游客惦记和开发，事实上是无处不在阳光、辽阔的平谷和远山，瑰丽的丹霞地貌和原住民保留地风景也不逊色周边，夜晚的星空深邃透亮。我们住在原子城的几天有幸游访了周围不少自然景区和原住民历史遗迹，感觉这个不过分好客的地方随处透着安于自由的气息。
+
+{% include image.html description="机场的第一眼雕塑" url="/assets/img/2018-04-05/mountains/airport.jpg" %}
+
+{% include image.html description="新墨西哥州的第一天登上桑迪亚峰顶，等待落日的时候喜欢上这里的辽阔和安静" url="/assets/img/2018-04-05/mountains/sandia.jpg" %}
+
+*桑迪亚峰（Sandia Crest）*
+
+桑迪亚峰离阿尔伯克基市不算远，中途还能顺便路过核科学博物馆参观不少有意思的科学历史。
+沿路的风景很开阔，爬到峰顶也不需要花很大力气和时间，回报俯瞰的风景十分壮观。
+
+*瓦列斯火山口（Valles Caldera）*
+
+从原子城出发往西方向半小时车程是超级火山口Valles Caldera。独特的火山谷底草地Valle Grande大得难以置信。谷底的步道轨迹在草丛中不容易辨认，我们在沿道欣赏风景的时候还被一匹小郊狼远远地盯上，也算是一个小小插曲。草地上遍布一个个土拨鼠洞，活泼的土拨鼠们正值交配季来往不绝，在安静辽阔的火山谷底听着风声和草声，怎么会想到哪天我也会羡慕一只土拨鼠呢。
+
+{% include image.html description="Valles Caldera的大片草谷，曾经是超级火山所在" url="/assets/img/2018-04-05/mountains/caldera.jpg" %}
+
+*班德里国家纪念碑（Bandelier National Monument）*
+  {% include image.html description="班德里国家纪念碑原住民遗址" url="/assets/img/2018-04-05/mountains/preserve-0.jpg" %}
+  {% include image.html description="班德里国家纪念碑原住民遗址" url="/assets/img/2018-04-05/mountains/preserve-1.jpg" %}
+  {% include image.html description="班德里国家纪念碑原住民遗址" url="/assets/img/2018-04-05/mountains/preserve-2.jpg" %}
+  {% include image.html description="班德里国家纪念碑原住民遗址" url="/assets/img/2018-04-05/mountains/preserve-3.jpg" %}
+  {% include image.html description="班德里国家纪念碑原住民遗址" url="/assets/img/2018-04-05/mountains/preserve-4.jpg" %}
+  {% include image.html description="班德里国家纪念碑原住民遗址" url="/assets/img/2018-04-05/mountains/preserve-ladder.jpg" %}
+  {% include image.html description="班德里国家纪念碑原住民遗址" url="/assets/img/2018-04-05/mountains/preserve-place.jpg" %}
+  {% include image.html description="" url="/assets/img/2018-04-05/mountains/waterfall-0.jpg" %}
+  {% include image.html description="" url="/assets/img/2018-04-05/mountains/waterfall-1.jpg" %}
+
+*4号公路沿线风景和自然步道*
+{% include image.html description="" url="/assets/img/2018-04-05/mountains/4.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/mountains/4-0.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/mountains/4-1.jpg" %}
+
+
+
+

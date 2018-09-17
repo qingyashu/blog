@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "新墨西哥游记一——毒师、核科学、原子城"
+date:   2018-04-05
+categories: trip
+author: Qingya Shu
+---
+
+{% include image.html description="打卡炸鸡店！" url="/assets/img/2018-04-05/breakingbad/twisters-inside-logo.jpg" %}
+
+# 毒师之旅
+墨西哥城市阿尔伯克基，美剧绝命毒师和风骚律师的故事主要发生地点。作为毒师和律师的两只粉丝，一下飞机就兴奋地开启膜拜和打卡模式！刚好需要觅食，所以第一站就是腹黑炸鸡叔经营的鸡兄弟连锁店啦！
+
+*鸡兄弟炸鸡店（Los Pollos Hermanos）*
+
+鸡兄弟的招牌，其实只是在拍摄期间挂上。炸鸡店并不买炸鸡。它的真实身份是本地连锁餐饮Twisters，以扭扭薯条为招牌小吃。没错，这个扭扭薯条和当年麦当劳还是肯德基推出过一阵的扭扭薯条一模一样，其实味道和普通薯条实在没啥区别，只是形状很新奇，一根可以做的又卷又长吃好久。在新墨西哥州的快餐连锁，当然有墨西哥特色的Tacos或着Burritos，美式快餐三明治或者汉堡也不例外在菜单中。两个人进门主要为了拍照，随便点了Tacos和汉堡，味道还都不赖，虽然没有炸鸡，也算颇为满意。店员很热情，看我第一次点辣椒不知道Red or Green的区别，好心地给了两碟小酱试吃。我更喜欢绿酱，微辣中带着青椒清新的滋味。点餐结束后店员姐姐问我们是不是因为追剧来这里，热情地帮忙给我们拍照，哈哈估计来这里的都不出意外是剧迷啦。愉快的拍照吃饭，毒师之旅的第一站很是惊喜！
+
+{% include image.html description="炸鸡店其实是在连锁餐厅Twisters取景，这家连锁在本地很受欢迎" url="/assets/img/2018-04-05/breakingbad/twisters-outside.jpg" %}
+
+{% include image.html description="点餐区，主要还是墨式和美式快餐。炸鸡店没有炸鸡" url="/assets/img/2018-04-05/breakingbad/twisters-inside-bar.jpg" %}
+
+{% include image.html description="堂食，可以见到不少绝命律师的海报和剧组照片。老白坐在哪个位置呢？🤨" url="/assets/img/2018-04-05/breakingbad/twisters-seats.jpg" %}
+
+{% include image.html description="靠窗吃饭时看到对过大院里一只鸵鸟在悠闲地散步！" url="/assets/img/2018-04-05/breakingbad/twisters-bigbird.jpg" %}
+
+*小粉汽车旅馆*
+{% include image.html description="汽车旅馆是偶尔在高速上惊喜地发现的！真的只是一个特别普通不起眼的Motel，看着小小脏脏的，和剧中拍摄效果挺不一样" url="/assets/img/2018-04-05/breakingbad/cristal-hotel.jpg" %}
+汽车旅馆是偶尔在高速上惊喜地发现的！只是一个特别普通不起眼的Motel，要不是路边大大的Crossroad Motel招牌，真的很容易忽略。这个旅馆看着小小脏脏，和剧中拍摄效果挺不一样。
+当天去往核科学历史博物馆的路上还专门路过了洗车行和律师事务所。洗车行的建筑外形相当引人注目，里面生意兴隆来往的客流不断。洗车行门后大片大片的空地和剧中检查土地卫生那段情节拍摄的一模一样。律师事务所藏在一个小小的广场一角，是一个尚未出租的破商铺，已经看不出多少和剧中事务所的相似。
+
+{% include image.html description="洗车行很瞩目" url="/assets/img/2018-04-05/breakingbad/car-wash.jpg" %}
+
+{% include image.html description="律师事务所原型所在的广场" url="/assets/img/2018-04-05/breakingbad/saul-office.jpg" %}
+
+最后一站去往老白家。老白居住的房子在一个安静的小区，房子和门前的街道剧中差不多样式，只是车库和前院实际看起来小很多。也许困扰于过多剧迷的打扰，现任房主将整个院子用栏杆围起，街边还停着警车看守，所以我们路过后就抱憾匆匆离去，并没有下车拍照。
+
+# 美国核科学历史博物馆（National Museum of Nuclear Science & History）
+新墨西哥州的洛斯阿拉莫斯是世界上第一颗原子弹成功爆炸的实验地。核科学历史博物馆坐落在新墨西哥州阿尔伯克基市郊，陈列了从二战、到冷战、结束至今的与核科学相关的展品、历史、和科普，馆外还有第一颗原子弹爆炸试验的复制品和不少退役战斗机，对军事和战争史感兴趣的一定不能错过这个博物馆。
+
+{% include image.html description="可以看到结束二战的原子弹之一“胖子”、和轰炸机的复制品，以及运送的场景。两颗原子弹的复制品也可以在Los Alamos的布拉德伯里科学馆看到" url="/assets/img/2018-04-05/nmuseum/b.jpg" %}
+
+{% include image.html description="馆外还有第一颗原子弹爆炸试验的复制品和不少退役战斗机" url="/assets/img/2018-04-05/nmuseum/outside.jpg" %}
+
+
+# 洛斯阿拉莫斯（Los Alamos）
+曾经是最神秘的地点，悄悄汇集了世界顶尖的头脑，对外却是一座不存在的城市。在成功引爆了第一颗原子弹后，Los Alamos的人们改变了整个人类的轨迹。
+如今，原子城仍然是一座以科学研究为主的城市，当年的国家实验室延续至今，似乎仍是美国最机密的研究机构之一。
+尽管蒙上神秘、辉煌、瞩目、力挽狂澜之类的色彩，这座小城给我们的实际印象却是非常恬淡怡然，新墨西哥州无处不在的阳光和蓝天下，小小的无所不有的科学城更像是一片世外桃源。
+也许比起别处，这里的科学家是真正在享受田园式潜心学术的快乐。
+{% include image.html description="" url="/assets/img/2018-04-05/losalamos/two.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/losalamos/school.jpg" %}
+
+在对外解密前，Los Alamos执行的最高级别的保密，住在这里的科学家和工作人员为了项目的隐秘，牺牲了巨大的个人隐私——所有人共用同一个身份、通信地址、驾照，甚至来往的信件都经过层层审查。
+整个城市只有一个出入口检查站，来往人员通行需要经历最严格的审查。这个遗址如今已经被高速路取代，路边检查站的复制品和灯塔还原当年的场景。
+
+{% include image.html description="" url="/assets/img/2018-04-05/losalamos/tower.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/losalamos/gate.jpg" %}
+
+城市本身很小，整个城区都在步行距离，半天就可以逛遍。有专门的讲解路线Historical Trail可以报名，跟随导游徒步游览遍几个著名的景点，了解原子城的历史。
+布拉德伯里科学馆（Bradbury Science Museum）和历史文化博物馆都是不可所过的室内游览路线，有很多历史物品、文件、录像展览。
+
+{% include image.html description="" url="/assets/img/2018-04-05/losalamos/b1.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/losalamos/b2.jpg" %}
+
+
+回忆这段隐秘又辉煌的历史，那段压抑人性去成就科学的过程让我觉得不可思议，又讶异于人类的毅力和信念。在诺贝尔物理奖得主费曼的自传《别闹了，费曼先生》一书中有不少更生动详细的记录，比如他通过恶作剧地撬遍别人的保险箱来提醒大家提高安全意识、和妻子用约定的密码书信表达对隐私审查的不满，这段略显压抑的生活被他从另一种天然乐观的角度描写得非常生动有趣。
+
+{% include image.html description="恶作剧出名的费曼先生会在半夜2点睡不着起床打鼓扰民" url="/assets/img/2018-04-05/losalamos/drum.jpg" %}
+
+
+# 圣塔菲一瞥
+回程前只来得及在一大早路过圣塔菲。这个城市满是泥土气息个性十足，也许更适合设计师的眼光。
+{% include image.html description="" url="/assets/img/2018-04-05/santafe/1.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/santafe/2.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/santafe/3.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/santafe/4.jpg" %}
+{% include image.html description="" url="/assets/img/2018-04-05/santafe/5.jpg" %}

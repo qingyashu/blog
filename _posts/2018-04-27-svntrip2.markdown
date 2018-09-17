@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "萨凡纳、查尔斯顿游记之二：航母"
+date:   2018-04-27
+categories: trip
+author: Qingya Shu
+---
+
+离开萨凡纳，只剩下利用两天的假期。惧怕排队的我们决定不去挤奥兰多游乐场的热闹，而是北上去查尔斯顿（Charleston）看航母和庄园。查尔斯顿港口，退役航母约克城号航母（USS Yorktown, CV-10）改造成海事博物馆对外开放，对军事和历史知识感兴趣的某同学很是向往。
+
+{% include image.html description="约克城号退役后被改成海事博物馆，停泊在查尔斯顿的pier point港口。要走进航母还需通过长长的一座桥，但也只有在这个远远的位置才能完整地拍下如此巨大的航母" url="/assets/img/2018-04-27/31829-be59a302c0b90347.jpg" %}
+
+{% include image.html description="从查尔斯顿镇上去往约克城号所在的海事博物馆需要跨越亚瑟·罗芙奥桥（Arthur Ravenel Bridge）" url="/assets/img/2018-04-27/31829-876a8ad0bc40e5df.jpg" %}
+
+
+航母的机库层停放着很多二战时太平洋战争使用的飞机，边上的海报有详细讲解。
+{% include image.html description="航母的机库层停放着很多二战时太平洋战争使用的飞机" url="/assets/img/2018-04-27/31829-52eb5aa259d052a2.jpg" %}
+
+{% include image.html description="航母上也有教堂" url="/assets/img/2018-04-27/31829-5d3105baa821e2d7.jpg" %}
+
+{% include image.html description="牙医诊室，记得一共看见五六个牙医诊室，可见军队对口腔卫生还是十分看重的" url="/assets/img/2018-04-27/31829-89f4f6b7281d4fd2.jpg" %}
+
+{% include image.html description="药房（化验室？），被蜡像兵哥哥吓到" url="/assets/img/2018-04-27/31829-f83f5a2f463cd291.jpg" %}
+
+{% include image.html description="后厨，好大的厨师机！" url="/assets/img/2018-04-27/31829-4d5c38f98e480f6c.jpg" %}
+
+{% include image.html description="伙食好像不错的样子" url="/assets/img/2018-04-27/31829-b3654d2445edf78e.jpg" %}
+
+{% include image.html description="手术室" url="/assets/img/2018-04-27/31829-c1b7cbc6c41a32b5.jpg" %}
+
+如今机库被改成了访客中心和一楼，去前台要一份地图，和退役兵爷爷们攀谈几句，老爷爷们很乐意絮絮叨叨他知道的历史。跟着地图推荐的路线走，一共有五个游览路径，可以了解航母上机动组、供水组、士兵生活、还有约克城号在太平洋战场的战绩。整个航母非常之大，我们花了四小时多才大致走完。
+
+{% include image.html description="舰桥上体验一把指挥官" url="/assets/img/2018-04-27/31829-89219d5b52d09d40.jpg" %}
+
+{% include image.html description="机库上抓住一只约克城号吉祥物Scrappy～" url="/assets/img/2018-04-27/31829-d5c09a1b985382d5.jpg" %}
+
+开阔的甲板上停满了各式飞机，舰桥上观测指挥战场态势的瞭望室，这些都是很不错的观景点。跟着长长的游览路线走累了停下歇歇，可以看远处的大桥和水面上的海鸟。
+{% include image.html description="CV10舰桥" url="/assets/img/2018-04-27/31829-54572f08c69e96a5.jpg" %}
+
+{% include image.html description="甲板" url="/assets/img/2018-04-27/31829-331528fd731b311c.jpg" %}
+
+{% include image.html description="航母和拉菲号" url="/assets/img/2018-04-27/31829-886e4b4dbdffa649.jpg" %}
+
+航母边上是拉菲号驱逐舰，舰上的游览路线带领你参观战舰的发动机组、雷达组等等内部构造和简单的科普。还可以去舱室改造的放映厅看短纪录片，讲述当年拉菲号成功抵挡日本神风特攻队的疯狂自杀攻击的精彩战斗。
+
+码头另一边是曾服役于冷战时期的美国潜艇USS CLAMAGORE (SS-343)。经跨窄小的舱门在舱室之间穿梭，潜艇内部空间相对狭小封闭，可以想见潜艇兵在水下压抑、紧张的生活。
+
+{% include image.html url="/assets/img/2018-04-27/31829-e4fc2139093477d8.jpg" %}
+{% include image.html url="/assets/img/2018-04-27/31829-ab242615e466d522.jpg" %}
+{% include image.html url="/assets/img/2018-04-27/31829-d2ad0bc9d9268317.jpg" %}
+{% include image.html url="/assets/img/2018-04-27/31829-58138b1bc0c07981.jpg" %}
+{% include image.html description="我的天舱门好窄，当水兵不能太胖" url="/assets/img/2018-04-27/31829-5c64b30f8776c170.jpg" %}
+{% include image.html url="/assets/img/2018-04-27/31829-1e09336347fd5337.jpg" %}
+{% include image.html url="/assets/img/2018-04-27/31829-a79dcaaf8338872f.jpg" %}
+{% include image.html description="艇上厕所，展览很到位连纸巾都准备" url="/assets/img/2018-04-27/31829-a7929c3abe663f16.jpg" %}
+{% include image.html description="厨房，地上钻出个水兵哥哥蜡像头有些惊悚" url="/assets/img/2018-04-27/31829-3d62dc812a4f08b2.jpg" %}
+{% include image.html description="就餐区，这么看似乎空间不算太小" url="/assets/img/2018-04-27/31829-6aed9b930f0f572e.jpg" %}
+
+比起之前在芝加哥科技博物馆参观的德国二战潜艇U-505，Clamagore在空间上更宽裕，艇上更多的生活设施也让氛围显得相对轻松很多。但无论如何，这仍是个异常封闭、深水、黑暗的作战空间，潜水艇上的水兵们牺牲了自己的正常生活在这个水下幽闭之处为守卫家园斗争。从潜艇上出来呼吸到空气的霎那，我感受到和平是多么美好。
+
+参观完航母、战舰、和潜艇，还可以去码头边的越战体验展览走一圈。这是一个根据越南战争实际作战的模拟展览，园子并不算大，馆内的设施、影响、音效都尽力还原当时在战地的紧张、潮热、吵闹的氛围，目的是让人通过体验了解战争的残酷和和平的珍贵。
+
+{% include image.html url="/assets/img/2018-04-27/31829-05899895bf187e3d.jpg" %}
+{% include image.html url="/assets/img/2018-04-27/31829-80d1ccd584d73dfa.jpg" %}
+{% include image.html description="战地小卖部出售杂志和各种食物。屋外的枪林弹雨和屋内的花花公子杂志，鲜明的对比" url="/assets/img/2018-04-27/31829-b5800bf4d6138b83.jpg" %}
+
+顺带一提，从海事博物馆出来后我们又探访附近苏利文（Sullivan's Island）岛上莫尔特里堡（Fort Moultre）和苏利文海滩。莫尔特里堡比普拉斯基小很多，堡垒内部结构相对简单，展出的内容也类似，只是个半小时左右的景点。苏利文海滩没有停车点和完备公共设施，并不值得一去。
+
+总结旅行第四天，从塞凡纳北上往查尔斯顿，在航母博物馆度过一个收获历史和军事知识的满满一整天，我们过得非常的充实和满足，也在这里体验到和平和自由的珍贵。
