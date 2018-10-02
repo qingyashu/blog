@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "布拉格游记"
+date:   2018-06-08
+categories: trip
+author: Qingya Shu
+---
+
+布拉格在捷克西北，曾经是神圣罗马帝国和波西米亚王朝的首都。
+奔腾的伏尔塔瓦河横穿这座美丽的城市，古老沧桑的查理大桥横跨其上，
+链接着东面的历史老城和西边拔地而起的布拉格城堡群。
+这座欧洲最辉煌的城市以其多元、美丽的特质吸引了无数文化名人，莫扎特、德沃夏克、斯美塔那、卡夫卡等都曾来此寻找创作灵感、留下不朽的文化遗产。
+
+布拉格是最富盛名的旅游城市名不虚传：在这里能找到欧洲各个时期的建筑、各色艺术展览、民俗风情、小吃美食，整个城市的历史文化都保存的太好，来到布拉格就好像来到一个巨大的欧洲主题梦幻国度，游人、艺术家和自由的人们在这里能做的事情太多。
+
+我们在布拉格逗留的两天，主要以布拉格城堡和音乐会为主。白天马不停蹄地在绚丽夺目的城堡里流连，晚上则去历史盛名的音乐厅和剧院里享受音乐的洗礼。
+
+
+*城堡、教堂*
+
+{% include image.html description="圣维特大教堂" url="assets/img/2018-06-08/castle/vita.jpg" %}
+{% include image.html description="教堂内的玻璃彩窗美轮美奂" url="assets/img/2018-06-08/castle/vita-glass.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/castle/vita-inside.jpg" %}
+{% include image.html description="教堂主堂，边上二十几个圣坛每一个都记录了一段历史" url="assets/img/2018-06-08/castle/vita-inside2.jpg" %}
+{% include image.html description="攀登上教堂塔楼顶" url="assets/img/2018-06-08/castle/vita-top.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/castle/vita-top2.jpg" %}
+{% include image.html description="在塔楼顶望见伏尔塔瓦河" url="assets/img/2018-06-08/castle/vita-top3.jpg" %}
+
+
+{% include image.html description="" url="assets/img/2018-06-08/castle/castle.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/castle/castle-dome.jpg" %}
+
+城堡群的西北角一条颇有生活气息的巷子“黄金巷”，在中世纪是属于手工艺人们和奴仆的区域。
+在这里，骑士们从铁匠手里买到各色威武的盔甲，仕女们在裁缝手中挑到好看的服装，小小的巷子里总是拥挤，二楼昏暗的通道更是人头攒动，锻造声、交谈声此起彼伏，
+{% include image.html description="黄金巷" url="assets/img/2018-06-08/castle/alley.jpg" %}
+{% include image.html description="黄金巷二楼" url="assets/img/2018-06-08/castle/alley-indoor.jpg" %}
+{% include image.html description="各种奇形怪状的盔甲" url="assets/img/2018-06-08/castle/alley-armor.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/castle/alley-dress.jpg" %} 
+
+{% include image.html description="从城堡俯瞰布拉格" url="assets/img/2018-06-08/castle/castle-outside2.jpg" %}
+{% include image.html description="从城堡俯瞰布拉格" url="assets/img/2018-06-08/castle/castle-outsite.jpg" %}
+
+
+*从老城广场到查理大桥*
+{% include image.html description="老城广场当天可能有女权运动，一片粉色的海洋" url="assets/img/2018-06-08/bridge/plaza.jpg" %}
+{% include image.html description="有趣的脚踏喝啤酒车" url="assets/img/2018-06-08/bridge/fun-truck.jpg" %}
+{% include image.html description="查理大桥的塔楼" url="assets/img/2018-06-08/bridge/tower.jpg" %}
+{% include image.html description="从塔楼往下俯瞰的查理大桥，上午9点人还不算太多" url="assets/img/2018-06-08/bridge/from-top.jpg" %}
+{% include image.html description="桥上街头艺人很多，走两步就可以停下来欣赏一个喜欢的乐队" url="assets/img/2018-06-08/bridge/band.jpg" %}
+{% include image.html description="上午的太阳不算太烈，布拉格城堡像童话一样矗立在远处" url="assets/img/2018-06-08/bridge/bridge.jpg" %}
+
+*鲁道夫音乐厅、捷克爱乐乐团*
+
+鲁道夫音乐厅是一栋充满历史的建筑，坐落于布拉格市中心伏尔塔瓦河畔，是欧洲最老的音乐厅之一。
+音乐厅建成开放于1885年。1896年1月4日，捷克爱乐乐团在音乐厅里的主厅完成了首演，由安东德沃夏克本人指挥他自己的作品（包括当时已经闻名世界的德沃夏克第九交响曲）。演出得到巨大的成功，这座主厅也因此命名为德沃夏克厅。这便是音乐厅、捷克爱乐乐团、作曲家德沃夏克之间千丝万缕的联系。
+我们订的捷克爱乐音乐会当天晚上7点就在德沃夏克厅演出。
+
+{% include image.html description="鲁道夫音乐厅" url="assets/img/2018-06-08/concert/rudolfinum.jpg" %}
+{% include image.html description="德沃夏克厅舞台" url="assets/img/2018-06-08/concert/hall-stage.jpg" %}
+{% include image.html description="眩目的吊顶和顶饰" url="assets/img/2018-06-08/concert/hall.jpg" %}
+
+音乐厅除了主厅德沃夏克厅之外，还有另一个室内音乐厅Suk Hall和节庆厅Ceremony Hall，除此之外也用作展览、艺术中心、和国际文化交流目的。在二十世纪初的战争时期，鲁道夫音乐厅陷于沉寂，在二战沦陷期间更是被纳粹党为第三帝国节庆所用的场所。
+直到1946年后，捷克爱乐乐团重返鲁道夫厅，从此成为这里的常驻乐团。
+
+{% include image.html description="" url="assets/img/2018-06-08/concert/corridor.jpg" %}
+
+
+*歌剧*
+
+布拉格国家剧院也是捷克最重要的历史文化建筑，就在鲁道夫音乐厅边，一同遥望伏尔塔瓦河对岸的布拉格城堡。布拉格歌剧院于1881年建成，开放后两个月就遭遇不测，一场火灾烧毁了美丽的铜屋顶、剧院舞台、和华贵的观众席。剧院花了两年的时间重建，之后又以完美的面容向公众开放，此后一百多年都没有经过重修。
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-outside.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-corridor.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-inside.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-ceiling.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-inside2.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-balcony.jpg" %}
+
+当天上演少年维特的烦恼，由儒勒马斯奈所著的四幕歌剧，改编自歌德原著少年维特的烦恼。
+无忧无虑的维特在爱上了有婚约的少女夏绿蒂后，陷入忧愁，最终饮弹自尽。
+少年维特是适合随心之人的故事，若是抱着理性的成见去读原著是永远无法苟同维特的心路的。
+只有尝试抛开根深的理性去体会，才能被他感动。
+这是歌德的自传性小说，维特对夏绿蒂的爱情源于作者年轻时的一段不合世俗之爱，歌德在文学作品中剖析并杀死了维特，以此来完成自己的忏悔。
+这片惊世的文学作品却在当时掀起了剧烈的评论：反对维特的评论家们批判小说在错误地歌颂破坏婚姻和无病呻吟，是一片破坏普世价值观的伤风败俗之作。而支持者确认为这部伟大的作品通过描写主人公内心的痛苦来给人们安慰。崇拜维特的年轻人们相仿主人公的衣着、举止、言论尤其是痛苦和迷惘的特质。甚至有不少人效仿维特的结局自杀，以至于作者不得不出面向粉丝劝阻如此的行为。
+
+整部歌剧在原著的基础上简化了很多情节，剪切浓缩后的故事发展变化很大，让我有一些难以跟上维特的心理变化和举动的动机所在。
+但是抛去情节，歌剧的音乐还是超级棒的。中场时我们抽空逛了一下歌剧院的其他厅，还有时间去休息去喝上一小杯。在剧院二层的休息区外有一个开放的阳台，可以遥望河对岸的布拉格城堡。尽管阴雨绵绵，远处的城堡仍是风景如画。
+
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-poster.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-pool.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-pool2.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-wine.jpg" %}
+{% include image.html description="" url="assets/img/2018-06-08/opera/opera-scene.jpg" %}
+
+*博物馆之夜*
+
+有幸还遇上了一年一度的博物馆之夜，所有公立博物馆通宵达旦免费向大众开放。我们一开始并不知晓，从国家歌剧院听完维特出来后在灯火辉煌的马路上游荡，就被美妙的音乐吸引到了一个颇有历史风味的建筑中，门口派发节目单的工作人员微笑着招呼我们进去——捷克国家科技图书馆正向公众开放，科技交响乐团正在大厅二楼平台上演奏贝六！人们就随意坐在一楼大厅的书桌边，仰头欣赏。头一回被书香包围着聆听贝六，宽敞、复古的图书馆轻易就放大了音场的混响，也磨平了很多表演的小瑕疵，比起音乐厅更加温暖和谐。在这样慷慨、愉悦的氛围下聆听田园交响曲，第一次如此深刻地被贝多芬对大自然的纯真、和谐、浪漫的歌颂打动。
+
+知道博物馆之夜的我们兴冲冲地拿了一份游览地图，还乘坐深夜地铁逛了博物馆。在离开布拉格的前一天凌晨，我们还在晚春布拉格的街头游荡，留恋弥漫在空气中的文化气息。
+也是这个奇妙的夜晚让我彻底爱上布拉格！这里的艺术和历史好像就是漂浮在空气中，慷慨地让人随意呼吸拿取，而从来不会介意人们的阶层、背景：这里保留了最完整的欧洲文化和艺术，却绝不保留欧洲贵族式的傲慢，不管是谁，都对布拉格之美一亲芳泽。
+
+{% include image.html description="有幸遇上国立科技图书馆图书馆公演贝六，大厅的混响营造了温暖的音效" url="assets/img/2018-06-08/museum/library-concert.jpg" %}
+{% include image.html description="图书馆在一栋古建筑中，内部结构非常立体、现代" url="assets/img/2018-06-08/museum/library.jpg" %}
+{% include image.html description="在离开布拉格的前一天凌晨，我们还在晚春布拉格的街头游荡，留恋弥漫在空气中的文化气息。" url="assets/img/2018-06-08/museum/night.jpg" %}
+
+
+

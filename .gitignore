@@ -4,3 +4,4 @@ _site
 todo
 .DS_Store
 run-local.sh
+convert.sh
